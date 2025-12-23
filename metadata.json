@@ -1,0 +1,9 @@
+
+{
+  "name": "DocAi",
+  "description": "A premium, monochrome HealthTech platform for AI-powered disease diagnosis, risk prediction, and blood report analysis with GenAI medical assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

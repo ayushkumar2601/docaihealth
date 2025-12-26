@@ -1,20 +1,162 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🩺 DocAI – AI-Powered Health Intelligence Platform
 
-# Run and deploy your AI Studio app
+Making healthcare data understandable, accessible, and actionable.
 
-This contains everything you need to run your app locally.
+DocAI is an AI-powered health intelligence platform designed to help users understand medical data without confusion.
+It transforms complex medical scans, reports, and health metrics into clear, human-readable insights, enabling early awareness and preventive action.
 
-View your app in AI Studio: https://ai.studio/apps/drive/12LDETAoFOUrpLnbTU0VK02H-V27OSiRm
+🌐 Live Demo:
+👉 https://docaihealth.vercel.app
 
-## Run Locally
+🚀 What is DocAI?
 
-**Prerequisites:**  Node.js
+Healthcare today is overwhelming — reports are dense, scans are intimidating, and clarity is missing.
 
+DocAI is not a diagnosis engine.
+It is a clarity engine.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+By combining visual intelligence, report interpretation, predictive insights, and conversational AI, DocAI empowers users to make sense of their health — early and responsibly.
+
+🧠 Core Features
+🔐 1. Secure Signup & Smart Onboarding
+
+Minimal signup with a 1-minute personalization quiz
+
+Captures only essential inputs like age, gender, and health goals
+
+Privacy-first by design
+
+📊 2. Personal Health Dashboard
+
+Centralized overview of:
+
+Health profile
+
+Uploaded data
+
+Activity history
+
+Full user control over data visibility and usage
+
+No silent data training. No hidden usage.
+
+🖼️ 3. Image Analysis (Visual Intelligence)
+
+Upload medical images such as:
+
+Eye images
+
+Skin photos
+
+X-rays
+
+MRI scans
+
+AI detects early markers & patterns
+
+Results shown with probability indicators, not alarming conclusions
+
+Awareness over alarm
+
+🔮 4. 360° Health Prediction
+
+Combines:
+
+Image analysis results
+
+User profile data
+
+Generates a forward-looking health forecast
+
+Helps users take preventive actions early
+
+📄 5. Medical Report Explainer
+
+Upload blood reports or lab test results
+
+Converts complex biomarkers into:
+
+✅ Normal
+
+⚠️ Borderline
+
+🚨 Needs attention
+
+No medical jargon. Just clarity.
+
+💬 6. AI Health Assistant
+
+Conversational AI for follow-up questions
+
+Supports text + voice
+
+Multilingual support (auto language detection)
+
+Ask in Hindi → Get answers in Hindi
+
+Designed for accessibility across diverse populations
+
+🧩 User Flow
+Landing Page  
+   → Signup  
+      → Quick Personalization Quiz  
+         → User Dashboard  
+            → Image Analysis  
+               → Prediction  
+                  → Report Explainer  
+                     → AI Health Assistant
+
+🛠️ Tech Stack (Suggested / Example)
+
+Frontend: Next.js, React, Tailwind CSS
+
+Backend: Node.js, API Routes / Serverless
+
+AI Models: Vision models + NLP + Predictive analysis
+
+Deployment: Vercel
+
+Security: Privacy-first data handling
+
+(Adjust this section based on your actual implementation.)
+
+📸 Screenshots & Demo
+
+Add your screenshots in the sections below 👇
+
+🔹 Landing Page
+<!-- Add Screenshot Here -->
+
+🔹 User Dashboard
+<!-- Add Screenshot Here -->
+
+🔹 Image Analysis
+<!-- Add Screenshot Here -->
+
+🔹 Report Explainer
+<!-- Add Screenshot Here -->
+
+🔹 AI Health Assistant
+<!-- Add Screenshot Here -->
+
+⚠️ Disclaimer
+
+DocAI does not provide medical diagnoses.
+It is designed for educational, informational, and early-awareness purposes only.
+Users are always encouraged to consult certified medical professionals for clinical decisions.
+
+🌱 Why DocAI Matters
+
+Reduces fear caused by unreadable medical data
+
+Encourages preventive healthcare
+
+Improves accessibility through language & voice
+
+Builds trust through transparency
+
+Healthcare shouldn’t be a black box.
+
+📎 Live Project Link
+
+🔗 https://docaihealth.vercel.app

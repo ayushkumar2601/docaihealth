@@ -1,102 +1,86 @@
-🩺 DocAI – AI-Powered Health Intelligence Platform
+# 🩺 **DocAI – AI-Powered Health Intelligence Platform**
 
-Making healthcare data understandable, accessible, and actionable.
+> _Making healthcare data understandable, accessible, and actionable._
 
-DocAI is an AI-powered health intelligence platform designed to help users understand medical data without confusion.
-It transforms complex medical scans, reports, and health metrics into clear, human-readable insights, enabling early awareness and preventive action.
+**DocAI** is an AI-powered health intelligence platform designed to help users **understand medical data without confusion**.  
+It transforms **complex medical scans, reports, and health metrics** into **clear, human-readable insights**, enabling early awareness and preventive action.
 
-🌐 Live Demo:
-👉 https://docaihealth.vercel.app
+🌐 **Live Demo:**  
+👉 **https://docaihealth.vercel.app**
 
-🚀 What is DocAI?
+---
+
+## 🚀 **What is DocAI?**
 
 Healthcare today is overwhelming — reports are dense, scans are intimidating, and clarity is missing.
 
-DocAI is not a diagnosis engine.
-It is a clarity engine.
+**DocAI is not a diagnosis engine.**  
+It is a **_clarity engine_**.
 
-By combining visual intelligence, report interpretation, predictive insights, and conversational AI, DocAI empowers users to make sense of their health — early and responsibly.
+By combining **visual intelligence**, **report interpretation**, **predictive insights**, and **conversational AI**, DocAI empowers users to make sense of their health — early and responsibly.
 
-🧠 Core Features
-🔐 1. Secure Signup & Smart Onboarding
+---
 
-Minimal signup with a 1-minute personalization quiz
+## 🧠 **Core Features**
 
-Captures only essential inputs like age, gender, and health goals
+### 🔐 **1. Secure Signup & Smart Onboarding**
+- Minimal signup with a **1-minute personalization quiz**
+- Captures only essential inputs like age, gender, and health goals
+- _Privacy-first by design_
 
-Privacy-first by design
+---
 
-📊 2. Personal Health Dashboard
+### 📊 **2. Personal Health Dashboard**
+- Centralized overview of:
+  - Health profile
+  - Uploaded data
+  - Activity history
+- Full user control over data visibility and usage  
+- _No silent data training. No hidden usage._
 
-Centralized overview of:
+---
 
-Health profile
+### 🖼️ **3. Image Analysis (Visual Intelligence)**
+- Upload medical images such as:
+  - Eye images
+  - Skin photos
+  - X-rays
+  - MRI scans
+- AI detects **early markers & patterns**
+- Results shown with **probability indicators**, not alarming conclusions  
+- _Awareness over alarm_
 
-Uploaded data
+---
 
-Activity history
+### 🔮 **4. 360° Health Prediction**
+- Combines:
+  - Image analysis results
+  - User profile data
+- Generates a **forward-looking health forecast**
+- Helps users take **preventive actions early**
 
-Full user control over data visibility and usage
+---
 
-No silent data training. No hidden usage.
+### 📄 **5. Medical Report Explainer**
+- Upload blood reports or lab test results
+- Converts complex biomarkers into:
+  - ✅ Normal
+  - ⚠️ Borderline
+  - 🚨 Needs attention
+- _No medical jargon. Just clarity._
 
-🖼️ 3. Image Analysis (Visual Intelligence)
+---
 
-Upload medical images such as:
+### 💬 **6. AI Health Assistant**
+- Conversational AI for follow-up questions
+- Supports **text + voice**
+- **Multilingual support** (auto language detection)
+  - Ask in Hindi → Get answers in Hindi
+- Designed for **accessibility across diverse populations**
 
-Eye images
+---
 
-Skin photos
-
-X-rays
-
-MRI scans
-
-AI detects early markers & patterns
-
-Results shown with probability indicators, not alarming conclusions
-
-Awareness over alarm
-
-🔮 4. 360° Health Prediction
-
-Combines:
-
-Image analysis results
-
-User profile data
-
-Generates a forward-looking health forecast
-
-Helps users take preventive actions early
-
-📄 5. Medical Report Explainer
-
-Upload blood reports or lab test results
-
-Converts complex biomarkers into:
-
-✅ Normal
-
-⚠️ Borderline
-
-🚨 Needs attention
-
-No medical jargon. Just clarity.
-
-💬 6. AI Health Assistant
-
-Conversational AI for follow-up questions
-
-Supports text + voice
-
-Multilingual support (auto language detection)
-
-Ask in Hindi → Get answers in Hindi
-
-Designed for accessibility across diverse populations
-
-🧩 User Flow
+## 🧩 **User Flow**
 Landing Page  
    → Signup  
       → Quick Personalization Quiz  
@@ -106,57 +90,77 @@ Landing Page
                   → Report Explainer  
                      → AI Health Assistant
 
-🛠️ Tech Stack (Suggested / Example)
 
-Frontend: Next.js, React, Tailwind CSS
 
-Backend: Node.js, API Routes / Serverless
+---
 
-AI Models: Vision models + NLP + Predictive analysis
+## 🛠️ **Tech Stack (Suggested / Example)**
 
-Deployment: Vercel
+- **Frontend:** Next.js, React, Tailwind CSS  
+- **Backend:** Node.js, API Routes / Serverless  
+- **AI Models:** Vision models + NLP + Predictive analysis  
+- **Deployment:** Vercel  
+- **Security:** Privacy-first data handling
 
-Security: Privacy-first data handling
+_(Adjust this section based on your actual implementation.)_
 
-(Adjust this section based on your actual implementation.)
+---
 
-📸 Screenshots & Demo
+## 📸 **Screenshots & Demo**
 
-Add your screenshots in the sections below 👇
+_Add your screenshots in the sections below 👇_
 
-🔹 Landing Page
+### 🔹 Landing Page
 <!-- Add Screenshot Here -->
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/79e94be5-fe1e-4d9f-94b4-7f592e4e3d5b" />
 
-🔹 User Dashboard
+
+---
+
+### 🔹 User Dashboard
 <!-- Add Screenshot Here -->
+![Dashboard Screenshot](link-to-image)
 
-🔹 Image Analysis
+---
+
+### 🔹 Image Analysis
 <!-- Add Screenshot Here -->
+![Image Analysis Screenshot](link-to-image)
 
-🔹 Report Explainer
+---
+
+### 🔹 Report Explainer
 <!-- Add Screenshot Here -->
+![Report Explainer Screenshot](link-to-image)
 
-🔹 AI Health Assistant
+---
+
+### 🔹 AI Health Assistant
 <!-- Add Screenshot Here -->
+![AI Assistant Screenshot](link-to-image)
 
-⚠️ Disclaimer
+---
 
-DocAI does not provide medical diagnoses.
-It is designed for educational, informational, and early-awareness purposes only.
-Users are always encouraged to consult certified medical professionals for clinical decisions.
+## ⚠️ **Disclaimer**
 
-🌱 Why DocAI Matters
+> _DocAI does **not** provide medical diagnoses._  
+> It is designed for **educational, informational, and early-awareness purposes only**.  
+> Users are always encouraged to consult certified medical professionals for clinical decisions.
 
-Reduces fear caused by unreadable medical data
+---
 
-Encourages preventive healthcare
+## 🌱 **Why DocAI Matters**
 
-Improves accessibility through language & voice
+- Reduces fear caused by unreadable medical data
+- Encourages **preventive healthcare**
+- Improves accessibility through language & voice
+- Builds **trust through transparency**
 
-Builds trust through transparency
+> **Healthcare shouldn’t be a black box.**
 
-Healthcare shouldn’t be a black box.
+---
 
-📎 Live Project Link
+## 📎 **Live Project Link**
 
-🔗 https://docaihealth.vercel.app
+🔗 **https://docaihealth.vercel.app**
+
